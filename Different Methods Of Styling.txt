@@ -1,0 +1,15 @@
+Different Methods Of Styling
+a.Tag Name(<p>,<b>,<h1>
+b. ID selectors
+c.Class Selectors
+<p>Paragraph1</p>
+<p>Paragraph2</p>
+duita lai different color lyauna id use garne
+id lai css ma # le
+class lai css ma . le
+<h1>Heading one</h1>
+<p>Paragraph Tag</p>
+<h2>Heading Two</h2>
+aba three otai laii same color dina xa vane sabai lai same class dine
+
+

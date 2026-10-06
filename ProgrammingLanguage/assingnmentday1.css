@@ -1,0 +1,19 @@
+li {
+    text-transform: uppercase;
+}
+h1 {
+    text-transform: capitalize;
+}
+#cprogramming
+{
+    font: bold;
+}
+#cpp {
+    color: red;
+}
+#java {
+    font: italic;
+}
+#python {
+    text-decoration: underline;
+}
