@@ -12,4 +12,10 @@ class lai css ma . le
 <h2>Heading Two</h2>
 aba three otai laii same color dina xa vane sabai lai same class dine
 
-
+CSS BOX MODEL
+padding gap from inside div
+margin gap from outside div
+border outline of div
+Case sensitive-->
+lower case upper case should be Different
+everytextshouldbeunique
